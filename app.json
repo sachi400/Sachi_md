@@ -1,7 +1,7 @@
 {
   "name": "SACHI-MD (3.0.0)",
   "description": "SACHI-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "https://i.ibb.co/YnKwtFV/50d27b64cf679379.jpg",
+  "logo": "https://i.ibb.co/3ytBYXcd/my-data.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "SACHI-md"],
   "success_url": "/",
 
@@ -12,13 +12,13 @@
     },  
 
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "PRABATH-MD~mumK4mwsCS9JRfF.",
       "required": false
     },  
 
 
     "DATABASE": {
-      "description": "put any one database URL — Github token, MongoDB, MySQL, or PostgreSQL.",
+      "description": "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.",
       "required": true
     }   
 },
